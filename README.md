@@ -14,7 +14,7 @@ Sanjana this side!
 💡 Apart from coursework, i'm constantly seeking 
 new domain experiences.
 
-🧠 My interests lie in Full-stack web development, Graphic Design, Web Content Creation, Problem solving and many yet to unfold !
+🧠 My interests lie in Full-stack web development, Graphic Design, Web Content Writing, Problem solving and many yet to unfold !
 
 😄 she\her
 
