@@ -1,8 +1,6 @@
 
 <div align="center" style="display: flex">
 
-  <img src="./images/bheader.png" alt='' wdith=100% >
-
   <div align="center">
     <h1>Hey, Community</h1>
   </div>
@@ -56,8 +54,6 @@ when I’m not coding, you’ll find me buried in a book, vibing to some beats o
   
     Let's Connect and follow
    [![linkedin:sanjana-vajr](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-vajr/)
-
-  <img src="./images/bfooter.png" alt='' wdith=100% >
-
+   
   go ahead.. check out my work 👇
 </div>
