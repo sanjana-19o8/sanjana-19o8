@@ -1,6 +1,7 @@
 
 <div align="center" style="display: flex">
 
+  <img src="./images/bheader.png" alt='' wdith=100% >
 
   <div align="center">
     <h1>Hey, Community</h1>
@@ -16,7 +17,7 @@ i’m an upcoming IT grad with a serious passion for blockchain and web3- spendi
 
 🚀 i love building stuff—from smart contracts to full-stack web apps. My tech stack is my playground, and I’m always game to learn something new.
 
-When I’m not coding, you’ll find me buried in a book, vibing to some beats or scribbling down my latest thoughts. And yeah, I’m a total coffee addict. ☕ It’s my go-to fuel for creativity.
+when I’m not coding, you’ll find me buried in a book, vibing to some beats or scribbling down my latest thoughts. And yeah, I’m a total coffee addict. ☕ It’s my go-to fuel for creativity.
 
 🤝 Let’s connect and make something awesome in the web world and beyond!
 
@@ -55,6 +56,8 @@ When I’m not coding, you’ll find me buried in a book, vibing to some beats o
   
     Let's Connect and follow
    [![linkedin:sanjana-vajr](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-vajr/)
+
+  <img src="./images/bfooter.png" alt='' wdith=100% >
 
   go ahead.. check out my work 👇
 </div>
