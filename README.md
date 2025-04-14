@@ -15,7 +15,7 @@ i’m an upcoming IT grad with a serious passion for blockchain and web3- spendi
 
 🚀 i love building stuff—from smart contracts to full-stack web apps. My tech stack is my playground, and I’m always game to learn something new.
 
-when I’m not coding, you’ll find me buried in a book, vibing to some beats or scribbling down my latest thoughts. And yeah, I’m a total coffee addict. ☕ It’s my go-to fuel for creativity.
+when I’m not coding, you’ll find me buried in a book, vibing to some beats or scribbling down my latest thoughts. And yeah, I’m a total coffee and hot chocolate addict. ☕ It’s my go-to fuel for creativity.
 
 🤝 Let’s connect and make something awesome in the web world and beyond!
 
@@ -51,7 +51,12 @@ when I’m not coding, you’ll find me buried in a book, vibing to some beats o
 <div align="center">
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanjana-19o8&theme=dark&hide_border=true&border_radius=0.1&card_width=500&ring=30EBC6&fire=2DDBB8&currStreakLabel=2DDBB8&background=0D1117&hide_longest_streak=false)]([https://git.io/streak-stats](https://github-readme-streak-stats.herokuapp.com?user=sanjana-19o8&theme=dark&hide_border=true&border_radius=0.1&card_width=500&ring=30EBC6&fire=2DDBB8&currStreakLabel=2DDBB8&background=0D1117&hide_longest_streak=false))
-  
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana-19o8&layout=compact&theme=dark&card_width=500&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/><br/>
+
     Let's Connect and follow
    [![linkedin:sanjana-vajr](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-vajr/)
    
