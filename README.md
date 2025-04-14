@@ -56,7 +56,9 @@ when I’m not coding, you’ll find me buried in a book, vibing to some beats o
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana-19o8&layout=compact&theme=dark&card_width=500&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/>
-
+</div>
+<div align="center">
+  
     Let's Connect and follow
    [![linkedin:sanjana-vajr](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-vajr/)
    
